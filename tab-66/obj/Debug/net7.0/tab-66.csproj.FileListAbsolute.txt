@@ -1,0 +1,15 @@
+D:\ДЗ. курсы программирования\С#\C#66\ex-66\tab-66\bin\Debug\net7.0\tab-66.exe
+D:\ДЗ. курсы программирования\С#\C#66\ex-66\tab-66\bin\Debug\net7.0\tab-66.deps.json
+D:\ДЗ. курсы программирования\С#\C#66\ex-66\tab-66\bin\Debug\net7.0\tab-66.runtimeconfig.json
+D:\ДЗ. курсы программирования\С#\C#66\ex-66\tab-66\bin\Debug\net7.0\tab-66.dll
+D:\ДЗ. курсы программирования\С#\C#66\ex-66\tab-66\bin\Debug\net7.0\tab-66.pdb
+D:\ДЗ. курсы программирования\С#\C#66\ex-66\tab-66\obj\Debug\net7.0\tab-66.csproj.AssemblyReference.cache
+D:\ДЗ. курсы программирования\С#\C#66\ex-66\tab-66\obj\Debug\net7.0\tab-66.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ. курсы программирования\С#\C#66\ex-66\tab-66\obj\Debug\net7.0\tab-66.AssemblyInfoInputs.cache
+D:\ДЗ. курсы программирования\С#\C#66\ex-66\tab-66\obj\Debug\net7.0\tab-66.AssemblyInfo.cs
+D:\ДЗ. курсы программирования\С#\C#66\ex-66\tab-66\obj\Debug\net7.0\tab-66.csproj.CoreCompileInputs.cache
+D:\ДЗ. курсы программирования\С#\C#66\ex-66\tab-66\obj\Debug\net7.0\tab-66.dll
+D:\ДЗ. курсы программирования\С#\C#66\ex-66\tab-66\obj\Debug\net7.0\refint\tab-66.dll
+D:\ДЗ. курсы программирования\С#\C#66\ex-66\tab-66\obj\Debug\net7.0\tab-66.pdb
+D:\ДЗ. курсы программирования\С#\C#66\ex-66\tab-66\obj\Debug\net7.0\tab-66.genruntimeconfig.cache
+D:\ДЗ. курсы программирования\С#\C#66\ex-66\tab-66\obj\Debug\net7.0\ref\tab-66.dll
